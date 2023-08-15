@@ -1,0 +1,18 @@
+nome = input('coloque seu nome: ' )
+print(f' OK {nome} , vamos dar inicio ao questionario \n ' )
+idade int = input(' Coloque seu idade: ' )
+if idade = <=25:
+  print('Muito bem muito ao que aprender ainda ' )
+
+else: print('Bom a experiencia te ajudara muito ' )
+
+Cor= input(' Entre vermelho,azul,e roxo escolha uma cor que te represente: ' )
+if cor == 'azul'
+  print('pode sginificar azul pode significar que voçe esta harmonioso, que transparece tranquilidade e serenidade')
+  elif cor == 'vermelho'
+  print (' Significa que voce pode estar apaixonado ou levemente atraido por alguem')
+else: 
+print(' roxo siginifica calma, respeito e sabedoria , pode demonstrar que nada te abalara no trajeto')
+  
+
+
